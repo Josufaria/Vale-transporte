@@ -1,0 +1,1844 @@
+{
+  "CPTM_Linha 11": {
+    "agency": "CPTM",
+    "vehicle": "Trem",
+    "short_name": "Linha 11",
+    "name": "Coral"
+  },
+  "ViaQuatro_Linha 4": {
+    "agency": "ViaQuatro",
+    "vehicle": "Metrô",
+    "short_name": "Linha 4",
+    "name": "Amarela"
+  },
+  "SPTrans_8029-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8029-10",
+    "name": "Shopping Portal / Terminal Morumbi"
+  },
+  "SPTrans_6291-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6291-10",
+    "name": "Inocoop Campo Limpo / Terminal Bandeira"
+  },
+  "SPTrans_5119-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5119-10",
+    "name": "Terminal Capelinha / Largo São Francisco via Morumbi"
+  },
+  "SPTrans_3098-31": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3098-31",
+    "name": "São Mateus / Jardim Elizabeth"
+  },
+  "Metrô de São Paulo_Linha 15": {
+    "agency": "Metrô de São Paulo",
+    "vehicle": "Monotrilho",
+    "short_name": "Linha 15",
+    "name": "Prata"
+  },
+  "Metrô de São Paulo_Linha 2": {
+    "agency": "Metrô de São Paulo",
+    "vehicle": "Metrô",
+    "short_name": "Linha 2",
+    "name": "Verde"
+  },
+  "SPTrans_647A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "647A-10",
+    "name": "Valo Velho / Pinheiros"
+  },
+  "SPTrans_746V-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "746V-10",
+    "name": "Jardim Rebouças / Hospital Campo Limpo"
+  },
+  "SPTrans_807J-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "807J-10",
+    "name": "Terminal Campo Limpo / Shopping Morumbi"
+  },
+  "SPTrans_6059-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6059-10",
+    "name": "Jardim Universal / Santo Amaro"
+  },
+  "SPTrans_647P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "647P-10",
+    "name": "COHAB Adventista / Terminal Pinheiros"
+  },
+  "CMTO - Osasco_028": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "028",
+    "name": "Jd. Veloso - Largo de Osasco (Circular via Padroeira - Analice)"
+  },
+  "ViaMobilidade_Linha 9": {
+    "agency": "ViaMobilidade",
+    "vehicle": "Trem",
+    "short_name": "Linha 9",
+    "name": "Esmeralda"
+  },
+  "SPTrans_775F-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "775F-10",
+    "name": "Jardim das Palmas / Hospital das Clínicas"
+  },
+  "SPTrans_527R-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "527R-10",
+    "name": "Vila Império / Terminal Santo Amaro"
+  },
+  "ViaMobilidade_Linha 5": {
+    "agency": "ViaMobilidade",
+    "vehicle": "Metrô",
+    "short_name": "Linha 5",
+    "name": "Lilás"
+  },
+  "SPTrans_5164-21": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5164-21",
+    "name": "Cidade Leonor / Parque Ibirapuera"
+  },
+  "SPTrans_546L-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "546L-10",
+    "name": "Jardim Luso / Terminal Santo Amaro"
+  },
+  "SPTrans_7055-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7055-10",
+    "name": "Jardim Guarujá / Terminal Campo Limpo"
+  },
+  "SPTrans_809L-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "809L-10",
+    "name": "Campo Limpo / Lapa"
+  },
+  "SPTrans_746H-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "746H-10",
+    "name": "Jardim Jaqueline / Santo Amaro"
+  },
+  "SPTrans_637A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "637A-10",
+    "name": "Terminal Jardim Ângela / Terminal Pinheiros"
+  },
+  "SPTrans_6021-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6021-10",
+    "name": "Terminal Varginha / Jardim Nova Era"
+  },
+  "SPTrans_2014-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2014-10",
+    "name": "Jardim Pery Alto / ↕ Barra Funda"
+  },
+  "SPTrans_209P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "209P-10",
+    "name": "Cachoeirinha / Terminal Pinheiros"
+  },
+  "SPTrans_5011-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5011-10",
+    "name": "Eldorado / Santo Amaro"
+  },
+  "SPTrans_517J-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "517J-10",
+    "name": "Jardim Selma / Terminal Água Espraiada"
+  },
+  "EMTU_125": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "125",
+    "name": "Embu das Artes (Jardim São Marcos) / São Paulo (Metrô Vila Sônia)"
+  },
+  "SPTrans_847J-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "847J-10",
+    "name": "City Jaraguá / Jaguaré"
+  },
+  "SPTrans_847P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "847P-10",
+    "name": "Terminal Pirituba / Vila Olímpia"
+  },
+  "EMTU_408": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "408",
+    "name": "Guarulhos (Cidade Soberana) / São Paulo (Metrô Armênia) via Bairro dos Lavras"
+  },
+  "Metrô de São Paulo_Linha 1": {
+    "agency": "Metrô de São Paulo",
+    "vehicle": "Metrô",
+    "short_name": "Linha 1",
+    "name": "Azul"
+  },
+  "SPTrans_2590-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2590-10",
+    "name": "União de Vila Nova / Parque Dom Pedro II"
+  },
+  "CPTM_Linha 12": {
+    "agency": "CPTM",
+    "vehicle": "Trem",
+    "short_name": "Linha 12",
+    "name": "Safira"
+  },
+  "CPTM_Linha 10": {
+    "agency": "CPTM",
+    "vehicle": "Trem",
+    "short_name": "Linha 10",
+    "name": "Turquesa"
+  },
+  "SPTrans_6115-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6115-10",
+    "name": "Cantinho do Céu / Terminal Grajaú"
+  },
+  "TIC Trens_Linha 7": {
+    "agency": "TIC Trens",
+    "vehicle": "Trem",
+    "short_name": "Linha 7",
+    "name": "Rubi"
+  },
+  "SPTrans_778J-41": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "778J-41",
+    "name": "COHAB Raposo Tavares / ↕ Barra Funda"
+  },
+  "Guarupass - Guarulhos_456": {
+    "agency": "Guarupass - Guarulhos",
+    "vehicle": "Ônibus",
+    "short_name": "456",
+    "name": "Cidade Soberana / Centro"
+  },
+  "CPTM_Linha 13": {
+    "agency": "CPTM",
+    "vehicle": "Trem",
+    "short_name": "Linha 13",
+    "name": "Jade"
+  },
+  "SPTrans_7040-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7040-10",
+    "name": "Paraisópolis / Pinheiros"
+  },
+  "SPTrans_6403-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6403-10",
+    "name": "Terminal João Dias / Terminal Parque Dom Pedro II"
+  },
+  "SPTrans_2100-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus elétrico",
+    "short_name": "2100-10",
+    "name": "Terminal Vila Carrão / Praça da Sé"
+  },
+  "Suzantur - Mauá_84": {
+    "agency": "Suzantur - Mauá",
+    "vehicle": "Ônibus",
+    "short_name": "84",
+    "name": "Zaira - Centro"
+  },
+  "EMTU_032": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "032",
+    "name": "Itapecerica da Serra (Parque Paraíso) / São Paulo (Metrô Vila Sônia)"
+  },
+  "Metrô de São Paulo_Linha 3": {
+    "agency": "Metrô de São Paulo",
+    "vehicle": "Metrô",
+    "short_name": "Linha 3",
+    "name": "Vermelha"
+  },
+  "EMTU_182": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "182",
+    "name": "São Bernardo do Campo (Acampamento dos Engenheiros) / Diadema (Terminal Diadema)"
+  },
+  "EMTU_288": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus elétrico",
+    "short_name": "288",
+    "name": "São Bernardo do Campo (Terminal Ferrazópolis) / São Paulo (Terminal Jabaquara)"
+  },
+  "SPTrans_4311-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4311-10",
+    "name": "Terminal São Mateus / Terminal Parque Dom Pedro II via Aricanduva-Radial Leste"
+  },
+  "SPTrans_5362-23": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5362-23",
+    "name": "Parque Residencial Cocaia / Vicente Rao"
+  },
+  "SPTrans_5630-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5630-10",
+    "name": "Terminal Grajaú / ↕ Brás"
+  },
+  "SPTrans_407E-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "407E-10",
+    "name": "Jardim São Francisco via Jardim Santo André / ↕ Carrão"
+  },
+  "SPTrans_4313-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4313-10",
+    "name": "Terminal Cidade Tiradentes / Terminal Parque Dom Pedro II via Radial Leste"
+  },
+  "SPTrans_5391-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5391-10",
+    "name": "Jardim Ângela / Largo São Francisco"
+  },
+  "BB Urbano - Jandira_JT321": {
+    "agency": "BB Urbano - Jandira",
+    "vehicle": "Ônibus",
+    "short_name": "JT321",
+    "name": "Terminal Fátima - Polo Empresarial via Estrada dos Alpes"
+  },
+  "ViaMobilidade_Linha 8": {
+    "agency": "ViaMobilidade",
+    "vehicle": "Trem",
+    "short_name": "Linha 8",
+    "name": "Diamante"
+  },
+  "Guarupass - Guarulhos_498": {
+    "agency": "Guarupass - Guarulhos",
+    "vehicle": "Ônibus",
+    "short_name": "498",
+    "name": "Terminal São João/ Terminal Rodoviário Cecap"
+  },
+  "SPTrans_2021-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2021-10",
+    "name": "Jardim Bandeirantes / CPTM Guaianazes"
+  },
+  "Sou + Diadema_31D": {
+    "agency": "Sou + Diadema",
+    "vehicle": "Ônibus",
+    "short_name": "31D",
+    "name": "Vila Paulina - Terminal Diadema"
+  },
+  "EMTU_290": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus elétrico",
+    "short_name": "290",
+    "name": "Diadema (Terminal Diadema) / São Paulo (Terminal Jabaquara)"
+  },
+  "SPTrans_1178-31": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1178-31",
+    "name": "São Miguel / Praça do Correio via Assis Ribeiro"
+  },
+  "EMTU_084": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "084",
+    "name": "Franco da Rocha (Parque Vitória) / Francisco Morato (Centro)"
+  },
+  "SPTrans_3003-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3003-10",
+    "name": "Circular Jardim São Martinho / CPTM Vila Mara-Itaim (Horário)"
+  },
+  "SPTrans_5032-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5032-10",
+    "name": "Vila Arapuá / Terminal Sacomã via ↕ Tamanduateí"
+  },
+  "SPTrans_7006-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7006-10",
+    "name": "Jardim Horizonte Azul / Jardim Ângela"
+  },
+  "EMTU_194": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "194",
+    "name": "São Caetano do Sul (Terminal Rodoviário Nicolau Delic) / Santo André (Cata Preta) via Guarará"
+  },
+  "SPTrans_3739-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3739-10",
+    "name": "Recanto Verde Sol / ↕ Itaquera"
+  },
+  "SPTrans_1720-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1720-10",
+    "name": "Jardim Guancã / Cantareira"
+  },
+  "SPTrans_6035-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6035-10",
+    "name": "Vila Gilda / Santo Amaro"
+  },
+  "SPTrans_1016-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1016-10",
+    "name": "Cemitério do Horto / Shopping Center Norte"
+  },
+  "Santo André Transportes_I05": {
+    "agency": "Santo André Transportes",
+    "vehicle": "Ônibus",
+    "short_name": "I05",
+    "name": "Vila Rica - Estação de Utinga"
+  },
+  "SPTrans_848L-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "848L-10",
+    "name": "Recanto dos Humildes / Terminal Pirituba"
+  },
+  "SPTrans_971R-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "971R-10",
+    "name": "CPTM Jaraguá / ↕ Santana"
+  },
+  "SPTrans_1722-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1722-10",
+    "name": "Jardim Marina / ↕ Tucuruvi"
+  },
+  "SPTrans_1018-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1018-10",
+    "name": "Vila Rosa / ↕ Santana"
+  },
+  "SPTrans_6010-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6010-10",
+    "name": "Chácara Santa Maria / Terminal Guarapiranga"
+  },
+  "SPTrans_174M-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "174M-10",
+    "name": "Vila Sabrina / Museu do Ipiranga"
+  },
+  "SPTrans_5752-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5752-10",
+    "name": "Vila Missionária / ↕ Conceição"
+  },
+  "SPTrans_775A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "775A-10",
+    "name": "Jardim Adalgiza / Pinheiros"
+  },
+  "EMTU_158": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "158",
+    "name": "Mauá (Jardim Zaíra) / São Paulo (Terminal Sacomã)"
+  },
+  "SPTrans_6035-21": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6035-21",
+    "name": "Vila Gilda / Terminal Guarapiranga"
+  },
+  "SPTrans_715M-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "715M-10",
+    "name": "Jardim Maria Luiza / Largo da Pólvora"
+  },
+  "SPTrans_6L11-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6L11-10",
+    "name": "Ilha do Bororé / Terminal Grajaú"
+  },
+  "SPTrans_775V-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "775V-10",
+    "name": "Rio Pequeno / Itaim Bibi"
+  },
+  "SPTrans_1772-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1772-10",
+    "name": "Recanto Verde / ↕ Tucuruvi"
+  },
+  "EMTU_531": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "531",
+    "name": "Itapecerica da Serra (Recreio Primavera) / São Paulo (Metrô Capão Redondo)"
+  },
+  "SPTrans_745M-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "745M-10",
+    "name": "Campo Limpo / Shopping SP Market"
+  },
+  "SPTrans_7059-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7059-10",
+    "name": "Parque do Engenho / Terminal Campo Limpo"
+  },
+  "SPTrans_6062-51": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6062-51",
+    "name": "Jardim Castro Alves / Terminal Santo Amaro"
+  },
+  "SPTrans_745M-21": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "745M-21",
+    "name": "Campo Limpo / Parque Figueira Grande"
+  },
+  "SPTrans_7002-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7002-10",
+    "name": "Jardim Rosa Maria / Hospital das Clínicas"
+  },
+  "EMTU_128": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "128",
+    "name": "Embu das Artes (Jardim do Colégio) / São Paulo (Metrô Vila Sônia)"
+  },
+  "SPTrans_573A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "573A-10",
+    "name": "↕ Bresser / Vila Alpina"
+  },
+  "EMTU_384": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "384",
+    "name": "Itaquaquecetuba (Jardim Califórnia) / São Paulo (Metrô Armênia)"
+  },
+  "Com Embu das Artes_07I": {
+    "agency": "Com Embu das Artes",
+    "vehicle": "Ônibus",
+    "short_name": "07I",
+    "name": "Jd Ângela/ Rodoviária"
+  },
+  "EMTU_090": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "090",
+    "name": "Embu das Artes (Terminal Casa Branca) / São Paulo (Metrô Vila Sônia)"
+  },
+  "SPTrans_6091-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6091-10",
+    "name": "Vargem Grande / Terminal Santo Amaro"
+  },
+  "SPTrans_6052-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6052-10",
+    "name": "Jardim Sete de Setembro / Terminal Varginha"
+  },
+  "SPTrans_856R-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "856R-10",
+    "name": "Lapa / Socorro"
+  },
+  "SPTrans_8610-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8610-10",
+    "name": "Jardim Paulo VI / Terminal Bandeira"
+  },
+  "SPTrans_3006-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3006-10",
+    "name": "Jardim Fanganielo / CPTM Guaianazes"
+  },
+  "EMTU_489": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "489",
+    "name": "Itapevi (Cidade da Saúde) / Embu das Artes (Terminal Rodoviário) via Estr. Velha de Cotia"
+  },
+  "Viação Raposo Tavares - Cotia_236": {
+    "agency": "Viação Raposo Tavares - Cotia",
+    "vehicle": "Ônibus",
+    "short_name": "236",
+    "name": "Panorama via Lavapés X Jardim Recanto Suave"
+  },
+  "EMTU_396": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "396",
+    "name": "Cotia (Terminal Cotia) / São Paulo (Metrô Butantã)"
+  },
+  "SPTrans_3712-51": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3712-51",
+    "name": "Vila Cosmopolita / ↕ Itaquera"
+  },
+  "SPTrans_4028-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4028-10",
+    "name": "Hospital São Mateus / Divisa de Mauá"
+  },
+  "Suzantur - Mauá_71": {
+    "agency": "Suzantur - Mauá",
+    "vehicle": "Ônibus",
+    "short_name": "71",
+    "name": "Paranavaí - Centro"
+  },
+  "EMTU_382": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "382",
+    "name": "Mauá (Bairro Feital) / São Caetano do Sul (Terminal Rodoviário Nicolau Delic) via Av. do Estado"
+  },
+  "Suzantur - Mauá_41": {
+    "agency": "Suzantur - Mauá",
+    "vehicle": "Ônibus",
+    "short_name": "41",
+    "name": "Vila Mercedes - Centro"
+  },
+  "SPTrans_2727-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2727-10",
+    "name": "↕ Artur Alvim / Conjunto A. e. Carvalho"
+  },
+  "SPTrans_273G-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "273G-10",
+    "name": "Jardim Helena / ↕ Artur Alvim"
+  },
+  "EMTU_193": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "193",
+    "name": "Embu das Artes (Jardim Santa Tereza) / São Paulo (Metrô Capão Redondo) via Dom José"
+  },
+  "SPTrans_807P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "807P-10",
+    "name": "Paraisópolis / Santo Amaro via Panamby"
+  },
+  "SPTrans_407P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "407P-10",
+    "name": "Terminal Cidade Tiradentes / ↕ Tatuapé"
+  },
+  "SPTrans_2703-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2703-10",
+    "name": "Jardim Etelvina / ↕ Itaquera"
+  },
+  "Guarupass - Guarulhos_261": {
+    "agency": "Guarupass - Guarulhos",
+    "vehicle": "Ônibus",
+    "short_name": "261",
+    "name": "Jd. Papai - Centro"
+  },
+  "EMTU_163": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "163",
+    "name": "Guarulhos (Jardim Palmira-Parque Continental) / São Paulo (Metrô Tucuruvi)"
+  },
+  "SPTrans_6913-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6913-10",
+    "name": "Terminal Varginha / Terminal Bandeira"
+  },
+  "SPTrans_7052-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7052-10",
+    "name": "Jardim Helga / Terminal Campo Limpo"
+  },
+  "SPTrans_607C-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "607C-10",
+    "name": "Jardim Miriam / Itaim Bibi"
+  },
+  "SPTrans_637P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "637P-10",
+    "name": "Terminal Santo Amaro / Terminal Pinheiros via Av. Santo Amaro"
+  },
+  "BB Urbano - Itapevi_I11": {
+    "agency": "BB Urbano - Itapevi",
+    "vehicle": "Ônibus",
+    "short_name": "I11",
+    "name": "Terminal Itapevi - Parque Suburbano"
+  },
+  "SPTrans_6022-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6022-10",
+    "name": "Parque Cerejeira / Jardim Ângela"
+  },
+  "SPTrans_677A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "677A-10",
+    "name": "Terminal Jardim Ângela / Itaim Bibi"
+  },
+  "EMTU_497": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "497",
+    "name": "Carapicuíba (Vila Dirce) / Santana de Parnaíba (Colinas da Anhanguera)"
+  },
+  "SPTrans_8030-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8030-10",
+    "name": "Paraisópolis / Terminal Vila Sônia"
+  },
+  "EMTU_835": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "835",
+    "name": "São Paulo (Metrô Vila Sônia) / Barueri (Alphaville-Green Valley)"
+  },
+  "Ralip Transportes - Barueri_T253": {
+    "agency": "Ralip Transportes - Barueri",
+    "vehicle": "Ônibus",
+    "short_name": "T253",
+    "name": "Jardim Líbano - Parque Imperial"
+  },
+  "EMTU_833": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "833",
+    "name": "Itapevi (COHAB) / Santana de Parnaíba (Colinas da Anhanguera)"
+  },
+  "SPTrans_756A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "756A-10",
+    "name": "Jardim Paulo VI / Terminal Água Espraiada"
+  },
+  "EMTU_260": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "260",
+    "name": "Barueri (Alphaville) / Cotia (Km 30 Rodovia Raposo Tavares) via Viaduto do Parque Ipê"
+  },
+  "EMTU_463": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "463",
+    "name": "Itapevi (Jardim Vitápolis) / Santana de Parnaíba (Residencial Tamboré III)"
+  },
+  "Urubupungá - Santana do Parnaíba_860": {
+    "agency": "Urubupungá - Santana do Parnaíba",
+    "vehicle": "Ônibus",
+    "short_name": "860",
+    "name": "Conj. São Benedito - Cidade São Pedro - Colinas da Anhaguera"
+  },
+  "SPTrans_6L03-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6L03-10",
+    "name": "Cipó do Meio / Terminal Parelheiros"
+  },
+  "SPTrans_695Y-42": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "695Y-42",
+    "name": "Terminal Parelheiros / Estação Varginha"
+  },
+  "EMTU_291BI1": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "291BI1",
+    "name": "Itapevi (Jardim Bela Vista) / Santana de Parnaíba (Residencial Burle Marx)"
+  },
+  "SPTrans_637R-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "637R-10",
+    "name": "Jardim Aracati / Terminal Santo Amaro"
+  },
+  "EMTU_558": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "558",
+    "name": "Embu-Guaçu (Chácara Flórida) / São Paulo (Metrô Capão Redondo)"
+  },
+  "SPTrans_6084-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6084-10",
+    "name": "Jardim Chácara do Sol / Terminal Varginha"
+  },
+  "SPTrans_709A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "709A-10",
+    "name": "Terminal Água Espraiada / ↕ Ana Rosa"
+  },
+  "SPTrans_6046-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6046-10",
+    "name": "Jardim São Bento Novo / Santo Amaro"
+  },
+  "SPTrans_6450-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6450-10",
+    "name": "Terminal Capelinha / Terminal Bandeira via Santo Amaro"
+  },
+  "SPTrans_6824-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6824-10",
+    "name": "Parque Fernanda / Terminal Capelinha"
+  },
+  "Viação Caieiras - Franco da Rocha_240": {
+    "agency": "Viação Caieiras - Franco da Rocha",
+    "vehicle": "Ônibus",
+    "short_name": "240",
+    "name": "Estação de Franco da Rocha - Monte Verde"
+  },
+  "SPTrans_106A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "106A-10",
+    "name": "↕ Santana / Itaim Bibi"
+  },
+  "SPTrans_6412-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6412-10",
+    "name": "Paraisópolis / Paulista"
+  },
+  "SPTrans_7903-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7903-10",
+    "name": "Jardim João XXIII via Educandário / Praça Ramos de Azevedo"
+  },
+  "SPTrans_7245-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7245-10",
+    "name": "Terminal Santo Amaro / Hospital das Clínicas"
+  },
+  "EMTU_431": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "431",
+    "name": "São Bernardo do Campo (Jardim Las Palmas) / São Paulo (Terminal Sacomã)"
+  },
+  "SPTrans_1760-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1760-10",
+    "name": "COHAB Antártica / Shopping Center Norte"
+  },
+  "SPTrans_2722-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2722-10",
+    "name": "Jardim Verônia / ↕ Guilhermina-Esperança"
+  },
+  "SPTrans_4025-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4025-10",
+    "name": "Sítio das Figueiras / ↕ Tatuapé"
+  },
+  "Santo André Transportes_T23": {
+    "agency": "Santo André Transportes",
+    "vehicle": "Ônibus",
+    "short_name": "T23",
+    "name": "Cidade São Jorge - Terminal Santo André"
+  },
+  "SPTrans_5106-21": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5106-21",
+    "name": "Jardim Selma / Terminal Água Espraiada via Indianópolis"
+  },
+  "SPTrans_3063-1": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3063-1",
+    "name": "Guaianazes / Terminal São Mateus"
+  },
+  "SPTrans_477P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "477P-10",
+    "name": "Ipiranga / Rio Pequeno"
+  },
+  "Santo André Transportes_T17": {
+    "agency": "Santo André Transportes",
+    "vehicle": "Ônibus",
+    "short_name": "T17",
+    "name": "Jardim Alvorada - Uni Abc"
+  },
+  "EMTU_513": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "513",
+    "name": "Itapecerica da Serra (Jardim das Oliveiras) / São Paulo (Metrô Capão Redondo)"
+  },
+  "SPTrans_5015-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5015-10",
+    "name": "Jardim São Jorge / ↕ Jabaquara"
+  },
+  "SPTrans_4011-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4011-10",
+    "name": "Jardim Limoeiro / Terminal São Mateus"
+  },
+  "SPTrans_7062-41": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7062-41",
+    "name": "↕ Campo Limpo / Horto do Ypê"
+  },
+  "SPTrans_4017-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4017-10",
+    "name": "Metalúrgicos / Vila Yolanda"
+  },
+  "SPTrans_4210-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4210-10",
+    "name": "Terminal Cidade Tiradentes / Terminal Parque Dom Pedro II via Celso Garcia"
+  },
+  "SPTrans_273X-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "273X-10",
+    "name": "Jardim das Oliveiras / ↕ Artur Alvim"
+  },
+  "SPTrans_373T-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "373T-10",
+    "name": "Jardim Itápolis / ↕ Bresser"
+  },
+  "SPTrans_4033-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4033-10",
+    "name": "Jardim Guairacá / Nova Conquista"
+  },
+  "CMTO - Osasco_027": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "027",
+    "name": "Vila dos Remédios - Vila Yara"
+  },
+  "Expresso Planalto - Itaquaquecetuba_11TR": {
+    "agency": "Expresso Planalto - Itaquaquecetuba",
+    "vehicle": "Ônibus",
+    "short_name": "11TR",
+    "name": "Corredor - Manoel Feio"
+  },
+  "SPTrans_7013-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7013-10",
+    "name": "Parque Arariba / Terminal Vila Sônia"
+  },
+  "EMTU_001": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "001",
+    "name": "Itapecerica da Serra (Parque Paraíso) / São Paulo (Metrô Capão Redondo)"
+  },
+  "BR7 Mobilidade - São Bernardo do Campo_03": {
+    "agency": "BR7 Mobilidade - São Bernardo do Campo",
+    "vehicle": "Ônibus",
+    "short_name": "03",
+    "name": "São Pedro - Taboão"
+  },
+  "EMTU_152": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "152",
+    "name": "São Bernardo do Campo (Área Verde) / São Paulo (Terminal Sacomã)"
+  },
+  "SPTrans_746P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "746P-10",
+    "name": "Paraisópolis / Santo Amaro via Giovanni Gronchi"
+  },
+  "EMTU_343": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "343",
+    "name": "Embu das Artes (Jardim do Colégio) / São Paulo (Metrô Campo Limpo)"
+  },
+  "Prefeitura de Campo Limpo Paulista_409": {
+    "agency": "Prefeitura de Campo Limpo Paulista",
+    "vehicle": "Ônibus",
+    "short_name": "409",
+    "name": "Colina Do Pontal - Terminal"
+  },
+  "SPTrans_8010-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8010-10",
+    "name": "Perus / Lapa via Pirituba"
+  },
+  "SPTrans_6007-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6007-10",
+    "name": "Terminal Capelinha / Terminal Santo Amaro via Chácara Santana"
+  },
+  "SPTrans_9047-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "9047-10",
+    "name": "Jardim Paulistano / Lapa"
+  },
+  "BR7 Mobilidade - São Bernardo do Campo_15": {
+    "agency": "BR7 Mobilidade - São Bernardo do Campo",
+    "vehicle": "Ônibus",
+    "short_name": "15",
+    "name": "Detroit Caminho do Mar - Rudge Ramos"
+  },
+  "CMTO - Osasco_023": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "023",
+    "name": "Jardim Três Montanhas - Largo de Osasco"
+  },
+  "SPTrans_4012-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4012-10",
+    "name": "Jardim Iguatemi / Terminal São Mateus"
+  },
+  "SPTrans_6039-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6039-10",
+    "name": "Valo Velho / Santo Amaro via Unasp"
+  },
+  "SPTrans_6057-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6057-10",
+    "name": "Vila Natal / Terminal Grajaú"
+  },
+  "Viação Caieiras - Caieiras_055": {
+    "agency": "Viação Caieiras - Caieiras",
+    "vehicle": "Ônibus",
+    "short_name": "055",
+    "name": "Estação Caieiras - Jardim Marcelino"
+  },
+  "SPTrans_3761-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3761-10",
+    "name": "3ª Divisão / ↕ Carrão"
+  },
+  "SPTrans_5702-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5702-10",
+    "name": "Refúgio Santa Terezinha / ↕ Jabaquara"
+  },
+  "Ralip Transportes - Barueri_T241": {
+    "agency": "Ralip Transportes - Barueri",
+    "vehicle": "Ônibus",
+    "short_name": "T241",
+    "name": "Jardim Líbano - Tamboré Rec. Phrynea e Rodovia Castelo Branco"
+  },
+  "EMTU_551": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "551",
+    "name": "Embu das Artes (Jardim Mimás) / São Paulo (Metrô Capão Redondo)"
+  },
+  "SPTrans_8544-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8544-10",
+    "name": "Cidade d’Abril 3ª Gleba / Praça do Correio"
+  },
+  "SPTrans_6013-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6013-10",
+    "name": "Jardim Nakamura / Terminal Santo Amaro via Centro Empresarial"
+  },
+  "SPTrans_513C-31": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "513C-31",
+    "name": "Vila Califórnia / Estação de Transferência Itaquera"
+  },
+  "SPTrans_2707-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2707-10",
+    "name": "Chabilândia / ↕ Itaquera"
+  },
+  "SPTrans_6041-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6041-10",
+    "name": "Jardim Jangadeiro / Santo Amaro"
+  },
+  "SPTrans_3023-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3023-10",
+    "name": "Shopping Aricanduva / Parque São Rafael"
+  },
+  "EMTU_138": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "138",
+    "name": "Osasco (Munhoz Júnior) / São Paulo (Metrô Vila Madalena)"
+  },
+  "SPTrans_6072-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6072-10",
+    "name": "Jardim São Nicolau / Terminal Varginha"
+  },
+  "CMTO - Osasco_002": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "002",
+    "name": "Terminal Santa Maria - Largo de Osasco (via Av. Flora)"
+  },
+  "SPTrans_7006-51": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7006-51",
+    "name": "Jardim Horizonte Azul / ↕ Capão Redondo"
+  },
+  "SPTrans_574A-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "574A-10",
+    "name": "Americanópolis / Largo Cambuci"
+  },
+  "SPTrans_4113-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus elétrico",
+    "short_name": "4113-10",
+    "name": "Gentil de Moura / Praça da República"
+  },
+  "SPTrans_6016-41": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6016-41",
+    "name": "Jardim Porto Velho / Terminal Grajaú"
+  },
+  "SPTrans_7001-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7001-10",
+    "name": "Vila Gilda / Jardim Ângela"
+  },
+  "SPTrans_2080-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2080-10",
+    "name": "Cidade Kemel / Terminal Aricanduva"
+  },
+  "SPTrans_3026-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3026-10",
+    "name": "Vila Iolanda II / CPTM Guaianazes"
+  },
+  "SPTrans_874T-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "874T-10",
+    "name": "Ipiranga / Lapa"
+  },
+  "SPTrans_857C-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "857C-10",
+    "name": "Terminal Campo Limpo / ↕ Conceição"
+  },
+  "SPTrans_6505-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6505-10",
+    "name": "Terminal Guarapiranga / Terminal Bandeira"
+  },
+  "SPTrans_6015-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6015-10",
+    "name": "Vila Calú / Jardim Ângela"
+  },
+  "SPTrans_509J-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "509J-10",
+    "name": "Jardim Selma / Parque Ibirapuera"
+  },
+  "EMTU_845": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "845",
+    "name": "Taboão da Serra (Condomínio João Cândido) / São Paulo (Metrô Campo Limpo)"
+  },
+  "EMTU_080": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "080",
+    "name": "Osasco (Jardim Bonança) / São Paulo (Pinheiros)"
+  },
+  "SPTrans_917H-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "917H-10",
+    "name": "Terminal Pirituba / ↕ Vila Mariana"
+  },
+  "SPTrans_476G-41": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "476G-41",
+    "name": "Vila Industrial / ↕ Ana Rosa"
+  },
+  "SPTrans_6036-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6036-10",
+    "name": "Jardim Macedônia / Terminal Capelinha"
+  },
+  "SPTrans_7011-31": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7011-31",
+    "name": "Jardim dos Reis / Jardim Ângela via Parque Novo Santo Amaro"
+  },
+  "EMTU_563": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "563",
+    "name": "Embu-Guaçu (Vila Louro) / São Paulo (Metrô Capão Redondo)"
+  },
+  "SPTrans_2717-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2717-10",
+    "name": "↕ Guilhermina-Esperança / Cangaíba"
+  },
+  "SPTrans_6008-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6008-10",
+    "name": "Jardim Planalto / ↕ Santo Amaro"
+  },
+  "Viação Caieiras - Franco da Rocha_230": {
+    "agency": "Viação Caieiras - Franco da Rocha",
+    "vehicle": "Ônibus",
+    "short_name": "230",
+    "name": "Estação de Franco da Rocha - Jardim Pretória"
+  },
+  "Radial Transportes - Suzano_22 TR": {
+    "agency": "Radial Transportes - Suzano",
+    "vehicle": "Ônibus",
+    "short_name": "22 TR",
+    "name": "Terminal /Jd. Margarida via Jd. Revista"
+  },
+  "SPTrans_524M-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "524M-10",
+    "name": "Mascarenhas de Morais / Shopping Aricanduva"
+  },
+  "EMTU_849": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "849",
+    "name": "Guarulhos (Parque das Nações) / São Paulo (Estação CPTM São Miguel Paulista)"
+  },
+  "EMTU_588": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "588",
+    "name": "Guarulhos (Vila Any) / São Paulo (Metrô Armênia) via Ayrton Senna"
+  },
+  "EMTU_484": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "484",
+    "name": "Embu das Artes (Jardim Batista) / São Paulo (Metrô Capão Redondo)"
+  },
+  "SPTrans_5178-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5178-10",
+    "name": "Jardim Miriam / Praça João Mendes"
+  },
+  "SPTrans_5103-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5103-10",
+    "name": "Terminal Sacomã / Moema"
+  },
+  "CMTO - Osasco_002-2": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "002-2",
+    "name": "Jd Santa Maria - Largo de Osasco"
+  },
+  "SPTrans_148L-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "148L-10",
+    "name": "COHAB Antártica / Lapa"
+  },
+  "CMTO - Osasco_010": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "010",
+    "name": "Jardim Belmonte - Jardim Iguassú"
+  },
+  "CMTO - Osasco_026": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "026",
+    "name": "Jd. Santa Fé - Jd. Adalgisa"
+  },
+  "SPTrans_607A-21": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "607A-21",
+    "name": "Jardim Apurá / Estação Jurubatuba"
+  },
+  "CMTO - Osasco_030": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "030",
+    "name": "Terminal Santa Maria - Rec. das Rosas - Vila Yara"
+  },
+  "EMTU_213": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "213",
+    "name": "Taboão da Serra (Jardim São Judas Tadeu) / Osasco (Terminal Largo de Osasco)"
+  },
+  "CMTO - Osasco_013": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "013",
+    "name": "Novo Osasco - Largo de Osasco (Circular via Bradesco - Jaguaribe)"
+  },
+  "SPTrans_6820-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6820-10",
+    "name": "Jardim das Rosas / Terminal Capelinha via Jardim Dom José-Unasp"
+  },
+  "CMTO - Osasco_011": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "011",
+    "name": "Quitaúna - Vila Yara"
+  },
+  "CMTO - Osasco_031": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "031",
+    "name": "Portal D'oeste II - Jardim da Glória"
+  },
+  "EMTU_280": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "280",
+    "name": "Osasco (Centro) / São Bernardo do Campo (Terminal Paço)"
+  },
+  "SPTrans_8026-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8026-10",
+    "name": "Jardim Ingá / Terminal Vila Sônia"
+  },
+  "SPTrans_8019-31": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8019-31",
+    "name": "Parque Continental / Terminal Vila Sônia"
+  },
+  "EMTU_086": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "086",
+    "name": "Osasco (Jardim Veloso) / São Paulo (Lapa)"
+  },
+  "SPTrans_7011-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7011-10",
+    "name": "Jardim dos Reis / Jardim Ângela via Vila Remo"
+  },
+  "EMTU_392": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "392",
+    "name": "Carapicuíba (Jardim Ana Estela) / Barueri (Alphaville)"
+  },
+  "EMTU_082": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "082",
+    "name": "Pirapora do Bom Jesus (Jardim Bom Jesus) / Osasco (Vila Yara)"
+  },
+  "CMTO - Osasco_022": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "022",
+    "name": "Munhóz Jr - Vila Yara"
+  },
+  "BB Urbano - Itapevi_I05": {
+    "agency": "BB Urbano - Itapevi",
+    "vehicle": "Ônibus",
+    "short_name": "I05",
+    "name": "Terminal Itapevi - Cruz Grande"
+  },
+  "SPTrans_888P-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "888P-10",
+    "name": "Perus / COHAB Taipas"
+  },
+  "Prefeitura de Taboão da Serra_C06": {
+    "agency": "Prefeitura de Taboão da Serra",
+    "vehicle": "Ônibus",
+    "short_name": "C06",
+    "name": "Jd. Saint Moritz - Centro via Shopping /Hospital Pirajussara/Poupa Tempo"
+  },
+  "EMTU_178": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "178",
+    "name": "Embu das Artes (Jardim Vazame) / São Paulo (Metrô Campo Limpo)"
+  },
+  "Radial Transportes - Suzano_02 TR": {
+    "agency": "Radial Transportes - Suzano",
+    "vehicle": "Ônibus",
+    "short_name": "02 TR",
+    "name": "Miguel Badra / Jd. Colorado"
+  },
+  "SPTrans_5031-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5031-10",
+    "name": "Vila Arapuá / Terminal Sacomã"
+  },
+  "SPTrans_6414-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6414-10",
+    "name": "Socorro / Terminal Bandeira"
+  },
+  "SPTrans_7016-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "7016-10",
+    "name": "Jardim Ângela / Terminal Santo Amaro"
+  },
+  "SPTrans_6820-31": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6820-31",
+    "name": "Jardim das Rosas / Terminal Capelinha via Parque do Engenho"
+  },
+  "EMTU_499": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "499",
+    "name": "Guarulhos (Terminal CECAP) / São Paulo (Estação CPTM Dom Bosco)"
+  },
+  "SPTrans_5300-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5300-10",
+    "name": "Terminal Santo Amaro / Terminal Parque Dom Pedro II via Ibirapuera"
+  },
+  "SPTrans_509M-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "509M-10",
+    "name": "Jardim Miriam / Terminal Princesa Isabel"
+  },
+  "Suzantur - Mauá_85": {
+    "agency": "Suzantur - Mauá",
+    "vehicle": "Ônibus",
+    "short_name": "85",
+    "name": "Zaira 5 - Centro"
+  },
+  "SPTrans_5154-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5154-10",
+    "name": "Terminal Santo Amaro / Terminal Princesa Isabel via Berrini-Ibirapuera"
+  },
+  "BR7 Mobilidade - São Bernardo do Campo_19": {
+    "agency": "BR7 Mobilidade - São Bernardo do Campo",
+    "vehicle": "Ônibus",
+    "short_name": "19",
+    "name": "Industrial - Los Angeles"
+  },
+  "EMTU_404": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "404",
+    "name": "Osasco (Novo Osasco) / São Paulo (Metrô Vila Sônia)"
+  },
+  "SPTrans_778R-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "778R-10",
+    "name": "COHAB Raposo Tavares / Terminal Princesa Isabel"
+  },
+  "SPTrans_576M-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "576M-10",
+    "name": "Vila Clara / Pinheiros"
+  },
+  "SPTrans_3069-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3069-10",
+    "name": "Jardim Recanto Verde Sol / Terminal São Mateus"
+  },
+  "Guarupass - Guarulhos_434": {
+    "agency": "Guarupass - Guarulhos",
+    "vehicle": "Ônibus",
+    "short_name": "434",
+    "name": "Terminal São João - Centro"
+  },
+  "EMTU_219": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "219",
+    "name": "Santa Isabel (Monte Serrat) / São Paulo (Metrô Armênia)"
+  },
+  "SPTrans_175T-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "175T-10",
+    "name": "↕ Santana / ↕ Jabaquara"
+  },
+  "SPTrans_1012-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1012-10",
+    "name": "Terminal Jardim Britânia / Jardim Monte Belo"
+  },
+  "SPTrans_8050-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8050-10",
+    "name": "Morro Doce / Lapa"
+  },
+  "SPTrans_875C-1": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "875C-1",
+    "name": "Terminal Lapa / ↕ Santa Cruz"
+  },
+  "EMTU_350EX1": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "350EX1",
+    "name": "Itapevi (COHAB) / Osasco (Vila Yara) via Hospital Regional"
+  },
+  "SPTrans_172X-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "172X-10",
+    "name": "Parque Novo Mundo / ↕ Tatuapé"
+  },
+  "SPTrans_4310-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4310-10",
+    "name": "Estação de Transferência Itaquera / Terminal Parque Dom Pedro II"
+  },
+  "SPTrans_9784-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "9784-10",
+    "name": "Jardim dos Francos / ↕ Barra Funda"
+  },
+  "SPTrans_1745-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "1745-10",
+    "name": "Vila Nova Cachoeirinha / Shopping Center Norte"
+  },
+  "Sou + Diadema_26DP": {
+    "agency": "Sou + Diadema",
+    "vehicle": "Ônibus",
+    "short_name": "26DP",
+    "name": "Terminal Piraporinha-Terminal Diadema"
+  },
+  "SPTrans_4491-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4491-10",
+    "name": "Vila Liviero / Terminal Parque Dom Pedro II"
+  },
+  "SPTrans_5010-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5010-10",
+    "name": "Jabaquara / Santo Amaro"
+  },
+  "SPTrans_4055-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "4055-10",
+    "name": "CPTM Guaianazes / Vila Solange"
+  },
+  "CMTO - Osasco_017": {
+    "agency": "CMTO - Osasco",
+    "vehicle": "Ônibus",
+    "short_name": "017",
+    "name": "Portal D'oeste II - Vila Yara"
+  },
+  "SPTrans_6455-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6455-10",
+    "name": "Terminal Capelinha / Largo São Francisco via Santo Amaro"
+  },
+  "SPTrans_2101-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "2101-10",
+    "name": "Praça Sílvio Romero / Praça da Sé"
+  },
+  "Radial Transportes - Suzano_06 TR": {
+    "agency": "Radial Transportes - Suzano",
+    "vehicle": "Ônibus",
+    "short_name": "06 TR",
+    "name": "Terminal / Jd Varan"
+  },
+  "EMTU_841": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "841",
+    "name": "Embu das Artes (Jardim Valo Verde) / São Paulo (Metrô Vila Sônia)"
+  },
+  "EMTU_125BI1": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "125BI1",
+    "name": "Embu das Artes (Jardim Nossa Senhora de Fátima) / São Paulo (Metrô Vila Sônia)"
+  },
+  "SPTrans_5141-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5141-10",
+    "name": "Terminal Sapopemba / Praça do Correio"
+  },
+  "SPTrans_3414-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "3414-10",
+    "name": "Vila Dalila / Terminal Parque Dom Pedro II"
+  },
+  "SPTrans_8700-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "8700-10",
+    "name": "Terminal Campo Limpo / Praça Ramos de Azevedo"
+  },
+  "SPTrans_5012-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5012-10",
+    "name": "Vila Guacuri / Jabaquara"
+  },
+  "SPTrans_5318-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5318-10",
+    "name": "Chácara Santana / Praça da Sé"
+  },
+  "Guarupass - Guarulhos_361": {
+    "agency": "Guarupass - Guarulhos",
+    "vehicle": "Ônibus",
+    "short_name": "361",
+    "name": "Terminal Taboão - Terminal Vila Galvão (via Jardim São Paulo)"
+  },
+  "EMTU_103": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "103",
+    "name": "Guarulhos (Parque Continental) / São Paulo (Metrô Parada Inglesa)"
+  },
+  "SPTrans_118C-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "118C-10",
+    "name": "Jardim Pery Alto / Terminal Amaral Gurgel"
+  },
+  "EMTU_217": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "217",
+    "name": "São Bernardo do Campo (Conjunto Terra Nova II) / São Paulo (Terminal Rodoviário Tietê)"
+  },
+  "SPTrans_6061-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6061-10",
+    "name": "Jardim Marilda / Terminal Grajaú"
+  },
+  "SPTrans_5370-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "5370-10",
+    "name": "Terminal Varginha / Largo São Francisco"
+  },
+  "EMTU_581": {
+    "agency": "EMTU",
+    "vehicle": "Ônibus",
+    "short_name": "581",
+    "name": "Osasco (Terminal Km 21) / Cotia (Rod. Raposo Tavares Km 24)"
+  },
+  "SPTrans_6200-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6200-10",
+    "name": "Terminal Santo Amaro / Terminal Bandeira via Marginal Pinheiros"
+  },
+  "SPTrans_6475-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6475-10",
+    "name": "Jardim Vaz de Lima / Terminal Bandeira"
+  },
+  "Ralip Transportes - Barueri_T245": {
+    "agency": "Ralip Transportes - Barueri",
+    "vehicle": "Ônibus",
+    "short_name": "T245",
+    "name": "Vale do Sol - Parque Imperial"
+  },
+  "SPTrans_609F-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "609F-10",
+    "name": "Chácara Santana / Terminal Princesa Isabel"
+  },
+  "BB Urbano - Jandira_JA149": {
+    "agency": "BB Urbano - Jandira",
+    "vehicle": "Ônibus",
+    "short_name": "JA149",
+    "name": "Terminal Jandira - Jardim Camila via Mirante"
+  },
+  "Ralip Transportes - Barueri_T172": {
+    "agency": "Ralip Transportes - Barueri",
+    "vehicle": "Ônibus",
+    "short_name": "T172",
+    "name": "Terminal Barueri - Aldeia da Serra"
+  },
+  "SPTrans_6451-10": {
+    "agency": "SPTrans",
+    "vehicle": "Ônibus",
+    "short_name": "6451-10",
+    "name": "Terminal Capelinha / Terminal Bandeira via Marginal Pinheiros"
+  },
+  "Ralip Transportes - Barueri_T256": {
+    "agency": "Ralip Transportes - Barueri",
+    "vehicle": "Ônibus",
+    "short_name": "T256",
+    "name": "Terminal Barueri-Complexo Empresarial Green Valey"
+  }
+}

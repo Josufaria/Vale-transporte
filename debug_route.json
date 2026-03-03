@@ -1,0 +1,319 @@
+[
+    {
+        "bounds": {
+            "northeast": {
+                "lat": -23.5593851,
+                "lng": -46.6543964
+            },
+            "southwest": {
+                "lat": -23.5856558,
+                "lng": -46.6682326
+            }
+        },
+        "copyrights": "Powered by Google, ©2026 Google",
+        "legs": [
+            {
+                "arrival_time": {
+                    "text": "13:59",
+                    "time_zone": "America/Sao_Paulo",
+                    "value": 1769533165
+                },
+                "departure_time": {
+                    "text": "13:38",
+                    "time_zone": "America/Sao_Paulo",
+                    "value": 1769531936
+                },
+                "distance": {
+                    "text": "4,6 km",
+                    "value": 4625
+                },
+                "duration": {
+                    "text": "20 minutos",
+                    "value": 1229
+                },
+                "end_address": "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, Brasil",
+                "end_location": {
+                    "lat": -23.5856558,
+                    "lng": -46.6553664
+                },
+                "start_address": "Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200, Brasil",
+                "start_location": {
+                    "lat": -23.5616026,
+                    "lng": -46.6560958
+                },
+                "steps": [
+                    {
+                        "distance": {
+                            "text": "0,4 km",
+                            "value": 383
+                        },
+                        "duration": {
+                            "text": "6 minutos",
+                            "value": 361
+                        },
+                        "end_location": {
+                            "lat": -23.5595363,
+                            "lng": -46.65446170000001
+                        },
+                        "html_instructions": "Ande para Getúlio Vargas C/B 2",
+                        "polyline": {
+                            "points": "~zxnCrow{GQRa@h@CEGIGGIKSUYIEE[YII`@e@?AIKCCe@h@ACCCACCACGISKBG?G?E?E?IAECGGEEMKKOm@q@Y]CC[[JS?ABCFMFKUOA??AA@A?"
+                        },
+                        "start_location": {
+                            "lat": -23.5616026,
+                            "lng": -46.6560958
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "49 m",
+                                    "value": 49
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 39
+                                },
+                                "end_location": {
+                                    "lat": -23.5613384,
+                                    "lng": -46.65640579999999
+                                },
+                                "html_instructions": "Siga na direção <b>noroeste</b> na <b>Av. Paulista</b> em direção a <b>R. Plínio Figueiredo</b>",
+                                "polyline": {
+                                    "points": "~zxnCrow{GQRa@h@"
+                                },
+                                "start_location": {
+                                    "lat": -23.5616026,
+                                    "lng": -46.6560958
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0,1 km",
+                                    "value": 126
+                                },
+                                "duration": {
+                                    "text": "2 minutos",
+                                    "value": 126
+                                },
+                                "end_location": {
+                                    "lat": -23.5605247,
+                                    "lng": -46.6555759
+                                },
+                                "html_instructions": "Vire à <b>direita</b> na <b>R. Plínio Figueiredo</b><div style=\"font-size:0.9em\">Use as escadas</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "jyxnCpqw{GCEGIGGIKSUYIEE[YII`@e@?AIKCCe@h@ACCCACCACGIS"
+                                },
+                                "start_location": {
+                                    "lat": -23.5613384,
+                                    "lng": -46.65640579999999
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0,2 km",
+                                    "value": 151
+                                },
+                                "duration": {
+                                    "text": "2 minutos",
+                                    "value": 131
+                                },
+                                "end_location": {
+                                    "lat": -23.5595196,
+                                    "lng": -46.654799
+                                },
+                                "html_instructions": "Vire à <b>esquerda</b> na <b>R. Eng. Monlevade</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "ftxnCjlw{GKBG?G?E?E?IAECGGEEMKKOm@q@Y]CC[["
+                                },
+                                "start_location": {
+                                    "lat": -23.5605247,
+                                    "lng": -46.6555759
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "51 m",
+                                    "value": 51
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 57
+                                },
+                                "end_location": {
+                                    "lat": -23.5595713,
+                                    "lng": -46.6544592
+                                },
+                                "html_instructions": "Pegue a passarela de pedestres<div style=\"font-size:0.9em\">Use as escadas</div>",
+                                "polyline": {
+                                    "points": "~mxnCngw{GJS?ABCFMFKUO"
+                                },
+                                "start_location": {
+                                    "lat": -23.5595196,
+                                    "lng": -46.654799
+                                },
+                                "travel_mode": "WALKING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "6 m",
+                                    "value": 6
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 8
+                                },
+                                "end_location": {
+                                    "lat": -23.5595363,
+                                    "lng": -46.65446170000001
+                                },
+                                "html_instructions": "Vire à <b>esquerda</b><div style=\"font-size:0.9em\">O destino estará à direita</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "hnxnCjew{GA??AA@A?"
+                                },
+                                "start_location": {
+                                    "lat": -23.5595713,
+                                    "lng": -46.6544592
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    },
+                    {
+                        "distance": {
+                            "text": "4,2 km",
+                            "value": 4215
+                        },
+                        "duration": {
+                            "text": "14 minutos",
+                            "value": 844
+                        },
+                        "end_location": {
+                            "lat": -23.58552,
+                            "lng": -46.65559
+                        },
+                        "html_instructions": "Ônibus em direção a Jardim Luso",
+                        "polyline": {
+                            "points": "lmxnC~dw{GGLNJRLnAx@LH^TLH^TRJHDHDxC`B@?\\R^RdAl@v@XJBTHXJF@x@ZD@@?|@XlBb@LBRD~AXVDZHRDNDRDJDPHNFTLDDb@\\TRHNDJxAvA`A`AzAtARTp@l@FHZXr@r@v@t@z@v@b@d@b@^VTJLLJd@d@dC~BLL\\\\h@h@l@l@VZV^v@jAb@p@f@t@~@|Ap@bAf@x@A@G@GBSJ[TEDA@GDCDIHCDSVQZ?@EFEHMVITHJJLDHVd@lBzCT^@@bC`EHHFJ`@e@RSDGFGVYBADEtA}ARS^c@b@e@VWX[LMzA_BHKFIf@k@XW`@e@d@g@f@i@VW^a@DEvA}APSX[NOf@i@hAoAf@k@vB_CNQVYd@g@@AFGNITQ`Ai@HCNELGNGLGLILIJKLIDEBCDCDCBEDEBCBEHMDG@CDIBG@A@ADKDMDOBKNg@FOHWHYVo@HUN_@DODIZ{@FQRi@HSTk@FQJ[Ra@N]@?DIFIFKBCDEFIHGHKJMFEHELIPKBCFCDCNGrAi@JE^OJGr@Yd@QDCf@S^O\\Oh@Wj@YPI`@GDABADADCJGr@k@DF"
+                        },
+                        "start_location": {
+                            "lat": -23.5594287,
+                            "lng": -46.6543964
+                        },
+                        "transit_details": {
+                            "arrival_stop": {
+                                "location": {
+                                    "lat": -23.58552,
+                                    "lng": -46.65559
+                                },
+                                "name": "Av. Pedro Álvares Cabral, 800 - Parque do Ibirapuera, Portões 1 e 2"
+                            },
+                            "arrival_time": {
+                                "text": "13:59",
+                                "time_zone": "America/Sao_Paulo",
+                                "value": 1769533141
+                            },
+                            "departure_stop": {
+                                "location": {
+                                    "lat": -23.5594287,
+                                    "lng": -46.6543964
+                                },
+                                "name": "Getúlio Vargas C/B 2"
+                            },
+                            "departure_time": {
+                                "text": "13:44",
+                                "time_zone": "America/Sao_Paulo",
+                                "value": 1769532297
+                            },
+                            "headsign": "Jardim Luso",
+                            "line": {
+                                "agencies": [
+                                    {
+                                        "name": "SPTrans",
+                                        "url": "http://www.sptrans.com.br/"
+                                    }
+                                ],
+                                "color": "#00a5da",
+                                "name": "Jardim Luso / Terminal Bandeira",
+                                "short_name": "6358-10",
+                                "text_color": "#ffffff",
+                                "url": "https://www.sptrans.com.br/itinerarios/linha/?cdp=170229",
+                                "vehicle": {
+                                    "icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                                    "local_icon": "//maps.gstatic.com/mapfiles/transit/iw2/6/br-sao-paulo-transporte-bus.png",
+                                    "name": "Ônibus",
+                                    "type": "BUS"
+                                }
+                            },
+                            "num_stops": 9
+                        },
+                        "travel_mode": "TRANSIT"
+                    },
+                    {
+                        "distance": {
+                            "text": "27 m",
+                            "value": 27
+                        },
+                        "duration": {
+                            "text": "1 min",
+                            "value": 24
+                        },
+                        "end_location": {
+                            "lat": -23.5856558,
+                            "lng": -46.6553664
+                        },
+                        "html_instructions": "Ande para Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, Brasil",
+                        "polyline": {
+                            "points": "pp}nCnlw{GXm@"
+                        },
+                        "start_location": {
+                            "lat": -23.5855294,
+                            "lng": -46.6556033
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "27 m",
+                                    "value": 27
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 24
+                                },
+                                "end_location": {
+                                    "lat": -23.5856558,
+                                    "lng": -46.6553664
+                                },
+                                "polyline": {
+                                    "points": "pp}nCnlw{GXm@"
+                                },
+                                "start_location": {
+                                    "lat": -23.5855294,
+                                    "lng": -46.6556033
+                                },
+                                "travel_mode": "WALKING"
+                            }
+                        ],
+                        "travel_mode": "WALKING"
+                    }
+                ],
+                "traffic_speed_entry": [],
+                "via_waypoint": []
+            }
+        ],
+        "overview_polyline": {
+            "points": "~zxnCrow{Gs@|@KOQSSUYIa@_@II`@e@IMCCe@h@EGEEM[SB]Aa@]wAcB[[JSBENYWOC?UKGLb@XjCbBfAl@xDtBdB`AbA\\pBr@F@|@XlBb@`@HvB^rAZbAd@h@b@^b@DJxAvA|CvChBfBjEfElH`HvAvAn@z@bEpGxA|BIB}@j@WVi@z@c@~@Zb@rHzLzDiEnNkOrHiIdEsEn@e@jAm@\\Mx@c@x@s@V_@LWx@gCjBgFz@{Bp@{AXc@`@c@RSVOb@WzF_CnCkA|@c@f@IZOr@k@DF@@Xm@"
+        },
+        "summary": "",
+        "warnings": [
+            "Versão beta da rota a pé. Seja cuidadoso – Este trajeto pode não ter calçadas ou caminhos de pedestres."
+        ],
+        "waypoint_order": []
+    }
+]
